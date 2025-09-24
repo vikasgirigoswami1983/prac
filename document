@@ -1,0 +1,8 @@
+I have done this task for this first of all i install nginx in my system and change its index file content into a simple static web page (This is my webpage)
+  then i check that it is accessible from ip or not once it is accessible then 
+  I point my domain to ip for this first i add record in domain and then did proxy to point on my localhost 
+  Once it is pointed i install certbot and and use command certbot --nginx -d berojgar.site command to get ssl and 
+  Now i got ssl and domain has ssl certificate and also showing the my static web page
+
+
+  
